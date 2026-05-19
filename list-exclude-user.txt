@@ -85,3 +85,10 @@ aadcdn.msauth.net
 aadcdn.msauthimages.net
 msauth.net
 msauthimages.net
+
+; services
+aliexpress.ru
+chat.qwen.ai
+qwen.ai
+o.alicdn.com
+img.alicdn.com
