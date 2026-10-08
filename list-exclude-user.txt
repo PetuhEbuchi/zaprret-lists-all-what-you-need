@@ -386,16 +386,40 @@ openai.com
 
 
 
+auth.riotgames.com
+authenticate.riotgames.com
+entitlements.auth.riotgames.com
+api.account.riotgames.com
+ekg.riotgames.com
+clientconfig.rpg.riotgames.com
+riot-geo.pas.si.riotgames.com
+eu.edge.rms.si.riotgames.com
+content.publishing.riotgames.com
+eu.vg.ac.pvp.net
+na.vg.ac.pvp.net
+euc-prod.pp.sgp.pvp.net
+euc1-red.pp.sgp.pvp.net
+euw1.chat.si.riotgames.com
+riot-client.dyn.riotcdn.net
+lol.secure.dyn.riotcdn.net
+bacon.secure.dyn.riotcdn.net
+lion.secure.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
-playvalorant.com
-valorant.scd.riotcdn.net
-riotgames.com
-pvp.net
-riotcdn.net
-rgpub.io
-dradis-prod.rdatasrv.net
-riotcdn.com
-riotgames.es
+wildrift.secure.dyn.riotcdn.net
+ritoplus.secure.dyn.riotcdn.net
+lolstatic-a.akamaihd.net
+sieve.services.riotcdn.net
 
-visualstudio.com
-vsassets.io
+steampowered.com
+steamcommunity.com
+steamstatic.com
+steamcontent.com
+steamusercontent.com
+steamserver.net
+steam-chat.com
+steam-api.com
+steamdeck.com
+steamgames.com
+steam.tv
+s.team
+playartifact.com
